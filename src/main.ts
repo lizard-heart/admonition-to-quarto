@@ -15,7 +15,6 @@ import {
 
 
 
-
 export default class ListModified extends Plugin {
 	settings: ListModifiedSettings;
 
